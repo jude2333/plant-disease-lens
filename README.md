@@ -1,4 +1,4 @@
-# Farmassist
+# plant disease
 
 Precision farming application.
 
